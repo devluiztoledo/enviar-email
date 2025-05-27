@@ -5,7 +5,7 @@ Clique no botão abaixo para instalar diretamente:
 
 ---
 
-# 📄 Script Tampermonkey – Contar Suporte Técnico
+# 📄 Script Tampermonkey – Enviar Email
 
 Este repositório contém um **script para Tampermonkey** que automatiza o envio do email da equipe do **"Suporte Técnico"**, com apenas **1 botão** no sistema **Integrator 6 da EliteSoft**.
 
